@@ -7,7 +7,7 @@ class SearchPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Center(
       child: Text(
-        'Partos canche', 
+        'Partos canche 2', 
         style: TextStyle(fontSize: 45, color: Colors.orange)
       )
     );
