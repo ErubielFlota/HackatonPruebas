@@ -109,7 +109,7 @@ class _HomePageState extends State<HomePage> {
               ),
               GButton(
                 icon: Icons.search,
-                text: 'Buscar',
+                text: 'Buscar Femboys',
                 iconActiveColor: Colors.white,
                 textColor: Colors.white,
               ),
