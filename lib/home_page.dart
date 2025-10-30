@@ -4,7 +4,6 @@ import '/home_page_content.dart';
 import '/categories_page.dart';
 import '/search_page.dart';
 import 'login_screen.dart';
-import '/profile_page.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
